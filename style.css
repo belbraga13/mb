@@ -1,6 +1,7 @@
 body {
     padding: 15px; margin: 5px; border: 6px black solid;
- background-color: darkred;
+ background-color: rgb(98, 6, 141);
  color: antiquewhite;
 }
 ul {list-style-type:none;}
+a {color: antiquewhite;}
